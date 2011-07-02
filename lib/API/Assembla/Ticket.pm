@@ -1,6 +1,6 @@
 package API::Assembla::Ticket;
 BEGIN {
-  $API::Assembla::Ticket::VERSION = '0.01';
+  $API::Assembla::Ticket::VERSION = '0.02';
 }
 use Moose;
 
@@ -69,7 +69,7 @@ API::Assembla::Ticket - A Ticket in Assembla.
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

@@ -4,7 +4,14 @@ API::Assembla - Access to Assembla API via Perl.
 
 # VERSION
 
-version 0.01
+version 0.02
+
+# UNDER CONSTRUCTION
+
+API::Assembla is not feature-complete.  It's a starting point.  The Assembla
+API has LOTS of stuff that this module does not yet contain.  These features
+will be added as needed by the author or as gifted by thoughtful folks who
+write patches! ;)
 
 # SYNOPSIS
 

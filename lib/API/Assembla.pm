@@ -1,6 +1,6 @@
 package API::Assembla;
 BEGIN {
-  $API::Assembla::VERSION = '0.01';
+  $API::Assembla::VERSION = '0.02';
 }
 use Moose;
 
@@ -181,7 +181,14 @@ API::Assembla - Access to Assembla API via Perl.
 
 =head1 VERSION
 
-version 0.01
+version 0.02
+
+=head1 UNDER CONSTRUCTION
+
+API::Assembla is not feature-complete.  It's a starting point.  The Assembla
+API has LOTS of stuff that this module does not yet contain.  These features
+will be added as needed by the author or as gifted by thoughtful folks who
+write patches! ;)
 
 =head1 SYNOPSIS
 
