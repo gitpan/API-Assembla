@@ -1,6 +1,6 @@
 package API::Assembla::Space;
 BEGIN {
-  $API::Assembla::Space::VERSION = '0.02';
+  $API::Assembla::Space::VERSION = '0.03';
 }
 use Moose;
 
@@ -45,7 +45,7 @@ API::Assembla::Space - A Space in Assembla
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 

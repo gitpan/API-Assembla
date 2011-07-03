@@ -22,4 +22,4 @@ requires:
   XML::XPath: 0
 resources:
   repository: https://github.com/gphat/api-assembla
-version: 0.02
+version: 0.03

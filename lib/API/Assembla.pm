@@ -1,6 +1,6 @@
 package API::Assembla;
 BEGIN {
-  $API::Assembla::VERSION = '0.02';
+  $API::Assembla::VERSION = '0.03';
 }
 use Moose;
 
@@ -181,7 +181,7 @@ API::Assembla - Access to Assembla API via Perl.
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 UNDER CONSTRUCTION
 
